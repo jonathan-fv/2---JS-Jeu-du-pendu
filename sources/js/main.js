@@ -17,7 +17,8 @@ const words = [
     'cuniculiculture',
     'acrimonie',
     'surnuméraire',
-    'thaumaturge'
+    'thaumaturge',
+    'telephone'
 ]
 let selectedWord = words[Math.floor(Math.random() * words.length)]
 const correctLetters = []
